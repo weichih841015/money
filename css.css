@@ -166,7 +166,7 @@ h1 {
     height: 60px;
     margin-left: 20px;
     text-indent: -9999px;
-    background: url("img/04.png") left center / 100% auto no-repeat;
+    background: url("04.png") left center / 100% auto no-repeat;
     width: 270px;
     
 }
@@ -194,7 +194,7 @@ header a:hover{
     text-decoration: underline;
 }
 .picture {
-  background-image: url("img/01.png");
+  background-image: url("01.png");
   background-size: cover;
   display: block;
   width: 100%;
